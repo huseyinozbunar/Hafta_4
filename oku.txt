@@ -1,0 +1,2 @@
+bahisoynama.py de bu program, kullanıcıya tek/çift tahmini üzerine kurulu bir bahis oyunu oynatır.
+kelime.py de Verilen bir paragraf içindeki her kelimenin kaç karakterden oluştuğunu bulmak ve bu uzunlukları bir liste olarak döndürmek.
